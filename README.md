@@ -2,7 +2,7 @@
 
 ### 1. What do you mean by BI? Explain.
 
-Business Intelligence is a process of extracting various insights from existing and past data in various form and reporting them to stakeholders about their business problems and possible solution in the form of reports and dashboards to optimize the business performance.    
+Business Intelligence is a process of extracting various insights from existing and past data in various form and reporting them to stakeholders about their business problems and possible solution in the form of reports and dashboards to optimize the business performance. It takes each and every data from Business stake holders and answers to various questions like what has happened?, why it happended, why it didn't happen?, what might be a solution? etc.,   
 
 It combines Business Analytics, Data mining, Data visualization, Data tools and Infrastructure and helps organizations to take better data driven decisions.    
 

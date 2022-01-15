@@ -21,3 +21,10 @@ Power BI is Business Intelligence tool developed and maintained by Microsoft whi
 
 ### 3. Explain Descriptive analytics?
 
+Before explaining Descriptive Analytics, let me say a little about Descriptive Statistics. Statistics is calssified as Descriptive statistics and Inferential statistics. Descriptive statistics measures various metrics such as Mean, Median, Mode, Variations. 
+
+Descriptive Analytics imputes Descriptive statistical methods in real time data to know the current stance of business. It explains "What we have?". It can be used to evaluate current Business performance, identify patterns in Historical data, identify where business lags. It is used majorly to generate KPIs (Key performance Indicator) in organizations.
+
+For example, An e-commerce organization may find average sales monthwise or yearwise(mean or median), mostly bought products in different accessories (mode), Frequency of customer buying products(count).
+
+Another example for KPI is an Educational Institute organizing and maintaining professors working hours, detials such as Conference conducted, research papers published in journals, etc to calculate KPI.

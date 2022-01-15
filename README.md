@@ -47,3 +47,6 @@ A real life example,
 SideTrade uses prescriptive analytics to deepen their understanding of a client’s true payment behavior. Through prescriptive analytics, SideTrade is able to score clients based on their payment track-record. This creates transparency and accuracy so that SideTrade and its clients can better account for costly payment delays.
 
 ### 6. Write five real-life questions that PowerBi can solve.
+
+1. A Telephone network organization may look around for a reason *"why customer shift to other networks?"* by using the details of customers and their feebback who changed their network to other network operators. 
+2. An E-commerce company might dig their data to see drop is sales, patterns in sales, understand customer buying behavior to know reason *"Why sales is not increasing?"* despite demand is there.

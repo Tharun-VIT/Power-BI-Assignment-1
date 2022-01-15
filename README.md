@@ -48,5 +48,8 @@ SideTrade uses prescriptive analytics to deepen their understanding of a clientâ
 
 ### 6. Write five real-life questions that PowerBi can solve.
 
-1. A Telephone network organization may look around for a reason **"why customer shift to other networks?"** by using the details of customers and their feebback who changed their network to other network operators. 
-2. An E-commerce company might dig their data to see drop is sales, patterns in sales, understand customer buying behavior to know reason **"Why sales is not increasing?"** despite demand is there.
+1. A Telephone network organization may look around for a reason for **"why customers shift to other networks?"** by using the details of customers and their feebback who changed their network to other network operators. 
+2. An E-commerce company might dig their data to see drop is sales, patterns in sales, understand customer buying behavior to know reason **"Why sales is not increasing?"** despite demand is there in market.
+3. A software product company may need to know **"Why should users opt competitor company products/services?"** to maintain their current product sustainability and provide better service to their users. 
+4. Government may need to know **"About what topic are most people talking about?"** during any social evil event occurs that led to burst in protests and revolts to stop the spread of false information or to to mute people voices in specific regions to outside regions.
+5. A Dataware warehouse will need to know **"Why security breach occured in database?, what data is lost?"** to concentrate on data recovery and tightening the security layer of database.

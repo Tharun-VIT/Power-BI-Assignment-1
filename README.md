@@ -28,3 +28,11 @@ Descriptive Analytics imputes Descriptive statistical methods in real time data 
 For example, An e-commerce organization may find average sales monthwise or yearwise(mean or median), mostly bought products in different accessories (mode), Frequency of customer buying products(count).
 
 Another example for KPI is an Educational Institute organizing and maintaining professors working hours, detials such as Conference conducted, research papers published in journals, etc to calculate KPI.
+
+### 4. Explain Predictive analytics?
+
+Predictive Analytics is a process of using Mathematical and Machine Learning models and predicting the futuristic events that are more likely to occur if current business performance continues with a reasonable degree of accuracy to take preventive actions if predicctions might bring huge loss. It explains "What will occur?".
+
+Time series models and charts are used to forecast futuristic events. Predictive Analytics are much important for an industry to sustain in market to know the future threats and business problems. Predictive Analytics uses Descriptive statistical results in Machine Learning/ Mathematical models.
+
+An example for Predicting Analytics is Covid cases prediction, which is a recently used by Government to take preventive mechanisms. Details such as number of covid positive cases region wise, degree of spreading, deaths occured are used to predict information like No of cases in next week or when the peak number of cases will occur or when the next wave might occur etc.

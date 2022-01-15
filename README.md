@@ -17,5 +17,7 @@ Power BI is Business Intelligence tool developed and maintained by Microsoft whi
 - Data visualization becomes more easier in just few clicks, drag and drops. Power BI comes with 180+ visualization techniques which are interactive, formattable to create colorful plots and graphs.
 - Power Query editor which heart of Power BI makes a record of changes what the analyst is doing, So that if they can revert back to any specific step directly and make changes in all subsequent steps automatically.
 - Power BI creates a Data model how different data is related to each other 
-- All the data such as reports/Dashboards are kept very secure
+- Data ingestion from various sources, All the data such as reports/Dashboards are very secure
+
+### 3. Explain Descriptive analytics?
 

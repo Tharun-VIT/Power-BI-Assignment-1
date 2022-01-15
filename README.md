@@ -36,3 +36,14 @@ Predictive Analytics is a process of using Mathematical and Machine Learning mod
 Time series models and charts are used to forecast futuristic events. Predictive Analytics are much important for an industry to sustain in market to know the future threats and business problems. Predictive Analytics uses Descriptive statistical results in Machine Learning/ Mathematical models.
 
 An example for Predicting Analytics is Covid cases prediction, which is a recently used by Government to take preventive mechanisms. Details such as number of covid positive cases region wise, degree of spreading, deaths occured are used to predict information like No of cases in next week or when the peak number of cases will occur or when the next wave might occur etc.
+
+### 5. Explain prescriptive analytics?
+
+Let's first understand the meaning of "prescription" in Prescriptive Analytics. We all may be familiar with the term Doctor prescription. It is a sheet prescribed by Doctor which contains details of medicine to cure respective patient's health disorder. In prescriptive Analytics, the word "solve" replaces "cure".
+
+Prescriptive Analytics used Descriptive and Predictive Analytics result to propose(prescribe) an optimal plan or solution that might reduce or avoid the negative impact or improve current performance of Business. It explains "What should we do?". It leads organizations to success. Data Science expert team analyzes the data deeply to provide a way to business stakeholders to improve their strategy and increase profit. To say in layman terms, what should be the data to get the targetted outcome.
+
+A real life example,
+SideTrade uses prescriptive analytics to deepen their understanding of a client’s true payment behavior. Through prescriptive analytics, SideTrade is able to score clients based on their payment track-record. This creates transparency and accuracy so that SideTrade and its clients can better account for costly payment delays.
+
+### 6. Write five real-life questions that PowerBi can solve.

@@ -33,7 +33,7 @@ Another example for KPI is an Educational Institute organizing and maintaining p
 
 Predictive Analytics is a process of using Mathematical and Machine Learning models and predicting the futuristic events that are more likely to occur if current business performance continues with a reasonable degree of accuracy to take preventive actions if predicctions might bring huge loss. It explains "What will occur?".
 
-Time series models and charts are used to forecast futuristic events. Predictive Analytics are much important for an industry to sustain in market to know the future threats and business problems. Predictive Analytics uses Descriptive statistical results in Machine Learning/ Mathematical models.
+Time series models and charts are used to forecast futuristic events. Predictive Analytics are much important for an industry to sustain in market to know the future threats and business problems. Predictive Analytics uses Descriptive statistical results in Machine Learning/Mathematical models.
 
 An example for Predicting Analytics is Covid cases prediction, which is a recently used by Government to take preventive mechanisms. Details such as number of covid positive cases region wise, degree of spreading, deaths occured are used to predict information like No of cases in next week or when the peak number of cases will occur or when the next wave might occur etc.
 
@@ -48,5 +48,5 @@ SideTrade uses prescriptive analytics to deepen their understanding of a clientâ
 
 ### 6. Write five real-life questions that PowerBi can solve.
 
-1. A Telephone network organization may look around for a reason *"why customer shift to other networks?"* by using the details of customers and their feebback who changed their network to other network operators. 
-2. An E-commerce company might dig their data to see drop is sales, patterns in sales, understand customer buying behavior to know reason *"Why sales is not increasing?"* despite demand is there.
+1. A Telephone network organization may look around for a reason **"why customer shift to other networks?"** by using the details of customers and their feebback who changed their network to other network operators. 
+2. An E-commerce company might dig their data to see drop is sales, patterns in sales, understand customer buying behavior to know reason **"Why sales is not increasing?"** despite demand is there.
